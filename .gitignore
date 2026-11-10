@@ -1,0 +1,11 @@
+# Public showcase: allowlist. Only the files below can ever be committed.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/docs/
+
+# Inside docs/, only Markdown pages and PNG images
+/docs/**/*.*
+!/docs/**/*.md
+!/docs/**/*.png

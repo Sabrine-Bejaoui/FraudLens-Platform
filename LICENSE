@@ -1,0 +1,14 @@
+Copyright (c) 2026 Sabrine Bejaoui.
+All rights reserved.
+
+This software and its source code are the exclusive intellectual property of the author.
+No permission is granted to copy, modify, distribute, sell, sublicense or commercially use this software without prior written authorization.
+
+Third-party components
+----------------------
+This product uses third-party open-source libraries, each distributed under its own license, which
+remains applicable to that component. This showcase repository contains documentation and images
+only; it includes no source code and no third-party library. The reference dataset ("Credit Card
+Fraud Detection", Worldline and the Machine Learning Group of Université Libre de Bruxelles) is
+distributed under the Open Database License (ODbL) and is not included in this repository. Fonts
+(Inter, Manrope, IBM Plex Mono) are distributed under the SIL Open Font License.
